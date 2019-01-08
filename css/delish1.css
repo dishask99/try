@@ -1,0 +1,202 @@
+body{
+   margin-right: 200px;
+   margin-left: 250px;
+   background-image: url("https://images.unsplash.com/photo-1524098837898-6b1c101a85f6?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=fb244e40d62662b07e55c0877beadf1f&auto=format&fit=crop&w=500&q=60"),url("https://images.unsplash.com/photo-1524098837898-6b1c101a85f6?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=fb244e40d62662b07e55c0877beadf1f&auto=format&fit=crop&w=500&q=60");
+background-repeat:no-repeat;
+background-position: left,right,center center;
+background-attachment:fixed,fixed,fixed;
+background-size: 250px 100%,250px 100%,550px 600px ;
+background-color: #ffffcc;
+font-family: 'Courgette', cursive};
+
+.nav{
+	height: 40px;
+	background-color: #ffdd99;
+	width: 849px;
+}
+.tag{
+
+}
+img{
+	width: 200px;
+	height: 200px;
+}
+.inner{
+   padding: 10px 10px;
+   background-color: #ffdd99;
+   border-radius: 30px;
+   border-style: dashed;
+   border-color: #996633;
+
+}
+.innerInner{
+	padding:10px 10px;
+	height: 170px;
+	   background-color: #ffdd99;
+}
+.outer{
+   margin: 20px 20px;
+   background-color: #ffdd99;
+   padding: 10px 10px;
+   border-radius: 30px;
+   width: 220px;
+   height: 220px;
+   transform: translateY(19.5em) translateX(-0em);
+   transition: 0.5s;
+   transform-origin: 50% 50%;
+
+
+}
+.one{
+	
+	background-image: url("https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/d/c1/dc116562-d669-5768-9555-6ae3dc2f6af7/5ad0fc4b14339.image.jpg?resize=750%2C541");
+    background-repeat: no-repeat;
+    background-position: center;
+    
+    background-size: 260px 190px;
+
+}
+.two{
+	background-image: url("https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/a/1a/a1afcf8e-613f-5319-89f8-10ba53e40fcf/5ad0fba5045fc.image.jpg?resize=750%2C486");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 290px 190px;
+}
+.three{
+    background-image: url("https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/3/22/322b2db3-3fb8-5d0b-9a2b-6af20e9402c5/59e78c93212ce.image.jpg?resize=750%2C470");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 320px 190px;
+}
+.four{
+   background-image: url("https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/8/2c/82cb5348-ebd0-5eb4-b85e-c9da245b7069/57990db11029a.image.jpg?resize=750%2C499");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 290px 190px;
+}
+.five{
+   background-image: url("https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/c/b4/cb4b5d76-c9f8-5f39-8240-712bf7b5fdf0/57990db0633f7.image.jpg?resize=750%2C499");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 290px 190px;
+}
+.six{
+   background-image: url("https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/1/e6/1e644769-ecef-5503-a78a-1309bef8cada/57990db188eb3.image.jpg?resize=750%2C501");
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 290px 190px;
+}
+.seven{
+	background-image: url("https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/0/72/072b04b0-cd02-5d24-9e11-2f2149cd7d30/57fe7c0ee6110.image.jpg?resize=750%2C465");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 290px 190px;
+
+}
+.eight{
+	background-image: url("https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/7/19/71918c08-f793-596d-ab53-99cf9fbf715e/58a486fa6caa3.image.jpg");
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 290px 190px;
+
+}
+.nine{
+	background-image: url("https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/9/8d/98d36722-3bc6-5002-b097-31a1bfd12aa9/582b8cec24bca.image.jpg?resize=750%2C509");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 290px 190px;
+
+}
+.text{
+   margin: 20px 20px;
+   background-color: #a3a375;
+   padding: 10px 10px;
+   border-radius: 30px;
+   width: 220px;
+   height: 270px;
+
+   
+}
+.innerText{
+	margin-left: 40px;
+	font-size: 24px;
+}
+.cap{
+	margin-top: 12px;
+	font-size: 15.5px;
+}
+.outer:hover{
+	transform: translateY(27em);
+	transition: 0.5s;
+}
+.combine1{
+ 
+	transform: translateY(10em);
+
+}
+.combine3{
+	transform: translateY(-10em);
+
+}
+.combine{
+	transform: translateY(-20em);
+	
+}
+.outerOuter{
+	float:left;
+ 
+
+}
+.logo4{
+	width: 220px;
+	height:220px;
+	margin-left: 30px;
+	margin-top: 0px;
+	margin-bottom: 40px;
+	transform: translateY(-7em);
+
+
+}
+.tag{
+   width: 560px;
+   margin-left: 240px;
+   transform: translateY(5em);
+   height: 90px;
+
+}
+.logo{
+  padding-top: 0px;
+   border-radius: 20px;
+   
+   width: 145px;
+   height: 250px;
+   
+}
+button{
+	padding: 22px;
+	font-size: 20px;
+	padding-bottom: 30px;
+	border: none;
+	background-color:  #ffdd99;
+	font-weight: normal;
+	color: #996633;
+	height: 70px;
+	float: right;
+	font-family: 'Courgette', cursive;
+
+	
+}
+.nav4{
+	width: 849px;
+	background-color:  #ffdd99;
+	height: 70px;
+	transform: translateY(5em);
+}
+.header{
+	
+	height: 150px;
+	background-image: url("");
+	font-family: 'Charmonman', cursive;
+	font-weight: bolder;
+
+}
